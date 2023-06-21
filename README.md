@@ -8,7 +8,7 @@ Crie um componente chamado `UserList` que exiba uma lista de usuários. Os dados
 Exiba a lista de usuários em uma tabela.
 
 
-## Exercício 2: Formulário Usuário
+## Exercício 2: Formulário usuários
 
 Crie um componente chamado `UserForm` que exiba um formulário para adicionar novos usuários. O formulário deve campos de `nome` e `email`. Ao submeter o formulário, adicione o novo usuário a uma lista de usuários. Utilize o hook useState para gerenciar a lista de usuários.
 
